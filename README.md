@@ -1,50 +1,147 @@
-<p align="center"><a href="https://nandz.my.id"><img width="50%" alt="Hello, I'm Nandz. I do open source!" src="https://i.ibb.co/CwDyy2v/Cuplikan-layar-2023-06-03-153117.png" /></a></p>
+<div align="center">
 
-<br />
+# 👋 Hi, I'm Tinandar Hermawan (Nandz)
 
-I'm a music producer and web developer from indonesia
+### Software Engineer • Educator • Music Producer
 
-**About me**
+*"Building software that empowers education and exploring the future of AI & Operating Systems."*
 
-- 💼 Programmer and CEO at [Nandz Store](https://nandz.store/)
+<p>
+    <a href="https://nandz.my.id">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+    </a>
+    <a href="https://www.linkedin.com/in/tinandar-hermawan-964667198">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    </a>
+    <a href="mailto:contact@nandz.my.id">
+        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    </a>
+</p>
 
-- 📈 Built AI Music and WebCode on GitHub
+</div>
 
-- ❤️ I love Anime,Music and building fun experiments on internet
+---
 
+# 👨‍💻 About Me
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+I'm **Tinandar Hermawan**, also known as **Nandz**.
 
+I'm an Indonesian software engineer, vocational school teacher, and music producer who enjoys creating technology that solves real-world problems.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nakgamers&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nandz github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakgamers&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+Currently I'm focused on building modern web applications, exploring Linux internals, artificial intelligence, cloud infrastructure, and educational technology.
 
-#### Top Repositories
+---
 
+# 🚀 Current Focus
 
-<a href="https://github.com/nakgamers/nakgamers.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nakgamers&repo=nakgamers.github.io&theme=buefy" />
-</a>
-<a href="https://github.com/nakgamers/slot-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nakgamers&repo=slot-demo&theme=buefy" />
-</a>
-<a href="https://github.com/nakgamers/noleptools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nakgamers&repo=noleptools&theme=buefy" />
-</a>
-<a href="https://github.com/nakgamers/covidcek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nakgamers&repo=covidcek&theme=buefy" />
-</a>
+- 🐧 Linux Engineering
+- ⚙️ Operating System Development
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Web Development
+- ☁️ Cloud Infrastructure
+- 📚 Educational Technology
+- 🎵 Music Production
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/prodbynandz">
-  <img align="right" alt="Nandz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://instgram.com/prodbynandz">
-  <img align="right" alt="Nandz | Instagram" width="20px" src="https://www.svgrepo.com/show/510026/instagram.svg" />
-</a>
+# 🛠 Tech Stack
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+
+### Frameworks
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nakgamers&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakgamers&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nakgamers&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 Unidi | SaaS Digital Wedding Invitation Platform |
+| 📚 Library System | School Library Management System |
+| 🤖 AI Research | AI & Machine Learning Experiments |
+| 🐧 Linux Lab | Linux Server & Infrastructure |
+| 🌐 Portfolio | Personal Portfolio Website |
+| ⚡ Automation | Productivity & Automation Tools |
+
+---
+
+# 🎯 2026 Goals
+
+- [ ] Build my own Linux distribution
+- [ ] Learn Kernel Development
+- [ ] Publish AI Research
+- [ ] Contribute to Open Source
+- [ ] Launch Production SaaS
+- [ ] Build Educational AI Platform
+
+---
+
+# 💭 Random Dev Quote
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
+> — Harold Abelson
+
+---
+
+# 🌎 Connect with Me
+
+<p align="center">
+
+<a href="https://nandz.my.id">🌐 Website</a> •
+<a href="https://github.com/nakgamers">GitHub</a> •
+<a href="https://linkedin.com/in/tinandar-hermawan-964667198">LinkedIn</a> •
+<a href="https://instagram.com/prodbynandz">Instagram</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=nakgamers&style=for-the-badge">
+
+</div>
